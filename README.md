@@ -12,7 +12,7 @@ This project provides a Python script to perform a simplified Blade Element Mome
 
 * **Customizable Parameters**: Easily modify propeller dimensions, RPM, and flight conditions.
 
-## ⚙️ How It Works (Conceptual)
+## ⚙️ How It Works
 
 1.  **BEMT Calculation**:
 
