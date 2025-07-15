@@ -132,7 +132,7 @@ For accurate propeller design and noise prediction, specialized commercial or re
 
 * Explore more advanced empirical noise models for better amplitude and broadband noise characteristics.
 
-* Add a simple GUI (e.g., using `Tkinter`, `PyQt`, `Streamlit`, or `Dash`) for easier interaction.
+* Add a simple GUI (probably flutter or java) for easier interaction.
 
 * Allow customization of the number of blade elements for BEMT.
 
@@ -156,4 +156,4 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or wan
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details
+This project is licensed under the MIT License
