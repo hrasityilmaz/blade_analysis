@@ -32,7 +32,7 @@ This project provides a Python script to perform a simplified Blade Element Mome
 
     * A sine wave at the BPF, along with its first few harmonics, is synthesized.
 
-    * A basic "broadband" noise (simulating turbulence) is added as white noise.
+    * Basic (simulating turbulence) is added as white noise.
 
     * All components are combined and saved as a 16-bit WAV audio file.
 
